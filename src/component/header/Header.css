@@ -1,0 +1,31 @@
+.nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #000;
+    color:#eeeeee;
+    padding: 20px 80px;
+    
+  }
+  
+  .sign-in {
+    padding: 10px 20px;
+    background-color: green;
+    color: white;
+    border: 0;
+    border-radius: 3px;
+  }
+  
+  .header-main {
+    background-color: #eeeeee;
+    padding: 40px 80px;
+  }
+  .header-main h1 {
+    font-size: 60px;
+    font-weight: 400;
+  }
+  
+  .header-main p{
+    font-size: 24px;
+    margin: 10px 0px;
+  }
